@@ -1,0 +1,689 @@
+Chairs.
+(electricity crackles)
+(sighs)
+(footsteps)
+(thudding, creaking)
+Hello?
+Hey.
+Hi!
+Am I early? I thought we said 9:00.
+Uh, no, yeah. Yeah, 9:00.
+She here yet?
+Uh, I know her plane landed, so... as long as she's on it.
+Yeah, yeah. It's the weekend, plus the holiday, so...
+Oh, right.
+Yeah, there was no traffic.
+What's M-NET?
+Oh, uh...
+Mutiny's last-ditch re-branding effort.
+Tried to stop the bleeding, but, you know, still...
+Bled.
+Anyway, my VC firm held onto the lease just in case we needed a raw space for some tadpole investment.
+(squeaking)
+It's pretty raw.
+Yeah, well, the building was in shambles when we moved in four years ago.
+I'm sure last year's quake didn't help.
+Oh, God, that was crazy.
+What?
+The earthquake.
+Oh, yeah.
+Where were you?
+How about you?
+Work.
+(chuckles)
+How come you wanted to meet here?
+Oh, I didn't.
+Cameron did. Who knows? Maybe... she wanted to see it again.
+Mm-hmm.
+By the way, I...
+I didn't mean to invite Gordon without talking to you.
+No, no, it's fine.
+I just read the paper and I thought it was something phenomenal, and he's still running the regional network we built, so it was a no-brainer.
+Makes perfect sense.
+I'm so sorry about that.
+No, really, it's fine. I'm glad he's coming.
+No, I... the divorce.
+Oh. Right.
+(stammering) That the two of you...
+Yeah.
+Anyway...
+I really appreciate it.
+I mean, it's just a couple of days for us to see if there's even a "there" there.
+Yeah, of course. (chuckles)
+But... I'm excited.
+I'm excited, too.
+I'm really excited. I...
+Hey, sorry I'm late.
+Is Cameron here?
+Hey!
+Hey!
+How long has it been? What was that, April?
+Yeah, it was actually two Aprils ago.
+Oh, jeez, it's been that long?
+Yeah. Yeah.
+Well, you look good.
+So do you.
+No, I mean it, you look... you look good.
+Thank you.
+Hey, can I, uh...
+(whispering) Can you give us a sec?
+Oh, of course. Absolutely. Ahem.
+Take all the time you...
+: Um, can I...?
+: Yeah.
+What's up?
+Hey, uh, you're okay that I'm here, right?
+I just thought it was an interesting concept, given everything that I've been working on.
+And, you know, I haven't seen Cameron in years.
+But look, I don't... this is your thing, okay?
+I don't want to get in the way. I don't want to interfere.
+Gordon, it's fine. I'm glad you're here.
+Him? I'm not so sure.
+: 
+Part of the reason we've been losing touch is...
+Well, you should have seen him the last time I did.
+(sighs)
+Hey, Joe.
+Glad you're here.
+(sighs)
+Okay, let's just hold off for a second on trying to talk about what the World Wide Web is and let's focus on what it could do.
+Let's say these are the big boys, the walled gardens we're all familiar with.
+You've got your Prodigy, CompuServe, your America Online...
+America Online.
+What kind of name is that, anyways?
+It sounds like a Neil Diamond song.
+♪ We're coming to America... Online! ♪
+Okay, and then we've got NSFNET.
+Now, what Berners-Lee is proposing in this paper is an application that could run on this network of networks.
+And now, well, NSFNET isn't for commercial use yet, and it isn't, you know, sexy at all...
+Hey, hey, come on. NSFNET's dripping with s*x.
+The size and scope of that would be formidable.
+Still, it's completely separate from the walled gardens, where all the real money is.
+Right now, unifying all these networks is essentially impossible.
+There's different software, different protocols, different operating system on different hardware.
+But if something like the World Wide Web expands, what it ultimately could do... is this, right?
+Well, no, not really.
+No.
+Sorry, I know I wasn't exactly invited.
+May I?
+Thanks.
+Okay, uh... if I'm understanding this correctly, an implementation would somehow take these massive online networks and do this.
+No, no, you've got it backwards.
+Can you give me the thing?
+Good.
+Oh.
+It's this, isn't it?
+Remember, the World Wide Web and NSFNET, or the Internet, or whatever you want to call it, are two different things.
+The Web runs on top of the Internet.
+It unifies everything. It makes it one network.
+And that's the incredible potential behind something like this.
+Right now the online world is the Tower of Babel.
+This is the Rosetta Stone.
+And it's running on state-of-the-art NeXT hardware and software.
+(stammering) That's my biggest problem.
+NeXTSTEP is not a problem; it's perfect.
+Okay, yeah, but I run a network that's not just on a whiteboard.
+All right, here we go.
+The NeXT is a state-of-the-art system.
+Designed by a disgraced megalomaniac who loves form over function.
+No wonder you love the NeXT. Look, if we're talking about a network that lives exclusively on a ridiculously overpriced machine that doesn't really play nice with anything else in the technological landscape, what we're really looking at...
+Oh. Well, please...
+Is this.
+...be my guest.
+A tiny little desert island that nobody gives a sh1t about.
+(chuckles)
+Cameron? What do you think?
+Okay.
+Um... say we're all talking the same way.
+Cool. What are we saying?
+Are we just shooting the breeze? Are we playing games?
+Are we looking to get laid?
+Are we just mindlessly shopping?
+That's an excellent point.
+Content is paramount, but this box is the equivalent of a 500,000-seat state-of-the-art stadium, and we build that, we own that, we win.
+But what's the point of having a giant stadium if you don't have a kick ass band to play the venue?
+Whoa, whoa, whoa, guys, the last thing that we need to do right now is hop in the car and race out to the parking lot of an empty stadium before rock and roll is even invented.
+Hey, guys, we are early.
+And I'm not talking, "Let's all just run down to the IHOP and grab some silver dollar pancakes" early.
+We are years and years early on this.
+Trust me, okay? This is what I do.
+I can't believe you don't see this.
+Look, I agree.
+Okay, the World Wide Web could be the next best thing since sliced bread.
+But right now, it's a tiny little academic petri dish running on a NeXT computer.
+In Europe.
+Yes, is Europe.
+Then what exactly are we all doing here?
+Okay, hold on, hold on. Just... let's not lose the shared idea here.
+There's a shared protocol. This is a universal language.
+So it's Esperanto.
+What the heck is Esperanto?
+It's a language for idiots that failed.
+Okay, you know what? Let's... why don't we take a break for lunch?
+It's, like, 10:30.
+I mean, I could eat. Sure.
+Gordon went out to get some pizza.
+I figured maybe it'd been a while since you had that in Japan.
+There's a Domino's around the corner from our apartment.
+Oh.
+Look, you came all this way.
+It just seems like you don't want to be here.
+I said I'd listen.
+I have a meeting with Atari. Tom has to meet with SEGA U.S....
+And you're doing Christmas in Texas with his family, I know.
+Cam, we planned this whole thing around your travel.
+In Vegas you said this was a good idea.
+It is a good idea.
+But is also has severe limitations in reality.
+It's good to see you, Joe.
+Thanks.
+It's good to see you doing so well.
+As opposed to...?
+No, it's just...
+Cameron said... she said at COMDEX you were... you were having a bit of a rough go of it, that's all.
+I'm sorry to hear about what happened.
+I never met Ryan, but Cameron spoke really highly of him.
+It was difficult.
+For a long time.
+But I'm doing so much better since I've reconnected with your wife.
+: Hold on...
+(groans)
+I feel like we're talking in circles.
+What we're really looking at is...
+Ow!
+You know, I'd like to take things in a different direction, if I could.
+I'd like to talk about what I learned in Paris.
+Paris?
+The whimsical art of mime?
+I went to the Hypertext Conference a few weeks ago.
+The what conference?
+Hypertext.
+Some pretty big names were there... Apple, Xerox.
+I'm surprised you didn't hear about it.
+Yeah, me, too.
+It was right after I saw you in COMDEX.
+Okay, so, Hypertext Conference.
+He handed out the entire Web toolkit, the transfer protocol, the mark-up language, the server software, everything.
+Wait, you met him?
+You have all of that?
+That would have been useful to know this morning, maybe.
+What's so interesting about a programming language like Hypertext...
+It's not a programming language, it's just a text that accesses other texts.
+Yes, I'm actually talking about HTML, the mark-up language.
+What's so interesting about it is its simplicity.
+With a very basic set of rules, you can create pages of information, objects, and eventually media when the bandwidth increases.
+So, I cornered the guys at CERN.
+Sorry, what is CERN?
+CERN. European Organization for Nuclear Research.
+Oh, right, nuclear research. Okay, I see the connection.
+Sorry, I'm not hearing the "C" word in it.
+Nobody was paying any attention to them.
+In a way, they reminded me of Gordon and Donna, COMDEX '81.
+Oh, yeah.
+What, pathetic?
+Devastatingly handsome?
+Geniuses ahead of their time.
+Berners-Lee handed out guidebooks not only for HTML, but HTTP, the transfer protocol, the call-and-response process for moving information like this across to potential networks.
+Addressing protocol is TCP/IP.
+But HTTP is the abstraction application layer protocol that sits on top of TCP/IP symbiotically, right, Tom?
+With HTTP, any machine can become a client, any machine can become a server, easily exchanging files.
+No, files are FTP, as in File Transfer Protocol.
+It's the one that has "file" in the name of it.
+What I am saying is HTTP will eventually supplant FTP.
+What I'm saying is it can do it all.
+That's interesting.
+Really? FTP? That's interesting?
+I'd like to get back to an important point... simplicity.
+Both HTML and HTTP are breathtakingly simple.
+And this kind of elegance allows for versatility, it allows for universality...
+Yes, a universal language, like I said.
+And the best part is, the online catalogue viewer, the transfer protocol, the Web server software, all of it is free.
+I have a problem with open source.
+You do?
+Yeah, I do.
+Do you know how many bad video game pitches I sit through every single day?
+The only way SEGA stays SEGA, or Nintendo stays Nintendo, is by not turning those pitches into products.
+That's not...
+No, no.
+Because open source allows the lunatics to run the asylum.
+And every time... every time... you put well-made code out into the world, for people to screw around with, it causes major problems.
+I mean, just look what happened to MacMillan Utility.
+What are you doing?
+What?
+What happened to MacMillan Utility?
+Um, gee. The release of their source code online vaporized millions of shareholder dollars.
+And, long story short, you're not around anymore.
+Okay!
+Or you could look at it a different way.
+Uh-huh.
+That with everyone creating something like the Web together, some potentially amazing things could happen.
+One, it gets built very fast.
+Two, it becomes huge in size.
+Three, it's constantly being edited and refined, so it's improving at a massive rate.
+And four, there's no overlord controlling things.
+: 
+ is this giant, miraculous nebula of collaboration happening on?
+You know as well as I do that something like this could change the face of the Internet.
+The Internet is not available for commercial use.
+Do you know how much money I poured into lobbying, trying to get deregulation through?
+But we are early, and it's all about timing.
+If the timing's off, we're dead. Timing's what killed Mutiny.
+Timing didn't kill Mutiny.
+I'm sorry...
+The right people make it the right time.
+We can move this forward.
+We can be the people that make that future happen.
+Oh, my God.
+What?
+I'm so sick of hearing about the future.
+What is that? The future is just another crappy version of the present.
+It's some bribe people offer you to make you do what they want instead of what you want.
+This future can be different.
+(laughs)
+Oh, Jesus, that should be on your business card, Joe.
+How many times are you people gonna fall for this?
+You know, I'm with Joe.
+I can't believe I'm saying that, but I'm with Joe.
+Of course you're with Joe. You guys are the money people.
+But it's me and Cameron that actually have to do it.
+Look, nobody's doing anything yet...
+Exactly.
+(knocks on table) Yeah, uh, guys, it's been fun, but I think we're gonna hit the road.
+Yeah, it's been, uh, thorough.
+Yeah, okay, we can call it a day and reconvene in the morning.
+Well, you know, maybe... maybe tomorrow will go better.
+There's not gonna be a tomorrow.
+Hey, Cameron?
+Come back tomorrow.
+You flew halfway across the world.
+Donna's trying. Just give her a chance.
+Joe...
+We got to see if there's something here.
+This is a mess, Joe.
+It's just a mess.
+(engine starts)
+♪ All my exes live in Texas... ♪
+(vocalizing)
+♪ Live in Texas ♪
+Come on, now.
+Permission to come aboard?
+Permission granted.
+(turns off radio)
+Careful there with them city shoes.
+Oh, sorry.
+Might wanna wait a sec till you get your sea legs under you.
+That's all right.
+Huh.
+Cool boat.
+Hard to sail in a driveway, though.
+Yup.
+Well, I was beating that slot up between Angel Island and Golden Gate last month, and I didn't heel fast enough in the shallows and I scratched the sh1t out of my gelcoat.
+(laughs) Well, look at you!
+The salty sailor.
+Look at you.
+Yeah, I know. Just all grown up, right?
+Well, hell, Cameron, you were all grown up before I ever met you.
+Beer?
+Yeah.
+How'd it go this morning with Donna?
+How did you...?
+Oh, Diane told me. Whose driveway you think you're in?
+(can pops)
+How is Diane?
+She's good. Good.
+Yeah? You guys are still...
+She still goes to work and I stay retired.
+Some weekends we sail up to Sausalito or Tiburon.
+Mostly go to the vineyard if we got a couple of extra days.
+So Californian.
+You take her to Texas yet?
+I have, yeah.
+Loved the rodeo. Hated everything else.
+(laughs) - And I think she was just being polite about the rodeo.
+So, what's next? Wedding bells?
+Oh, sure, we've talked about it, but, no.
+Hell, between us we got three kids aged 35 to 14, and that's enough.
+Hey, how's old Tommy Rendon?
+Uh...
+Kids on the radar for you yet?
+Ooh, no.
+No, I...
+Tom wants them, but...
+No. If it was up to me, we'd just get them out of a vending machine like everything else in Japan.
+Like what?
+Uh... edible underwear.
+Come on!
+Yeah.
+Plus, you know, we're just so far from home these days.
+Although, what the hell is home anymore?
+Well, you're here now, ain't ya?
+Yeah, I'm here.
+It only took me 24 hours to realize that coming back was a mistake.
+Well, Donna says it's a pretty hot idea.
+Had to be to get all you yokels in the same room again.
+It is. It's just... too many cooks.
+Fool me twice, right?
+Was that what happened?
+You got fooled?
+And also I just have my own thing going on that I'm busy with, so...
+Yeah. Space Bike.
+Yeah.
+That's right, I got it. I tried it out.
+Really?
+Well, look... well, it's not for me.
+I am just amazed that you even installed it.
+I couldn't make heads or tails of it, to tell you the truth.
+Well, who's that little b*st*rd with the chainsaw?
+Who's that one?
+And then you got the force field thing.
+Hell, it's like you can't even win.
+Nope.
+No, you can't.
+(stammering) Sorry, I'm just here for Haley's retainer.
+She conveniently forgot it again.
+Yeah, I think I saw it upstairs.
+Oh, did you want me to... 'cause I can go...
+No, no, I can get it. Come on in.
+You know, I, uh... still sleep up there every night.
+Hey, why don't you get yourself a glass of wine?
+Uh...
+You look like you could use one.
+You know where it is.
+The key to the bisque is the Parmesan toast.
+Four years ago, the only Parmesan you knew about was powdered.
+Yeah, well, I still got that, too.
+Joanie eats it by the spoonful.
+Dirty little secret?
+Teenage girls are just as disgusting as teenage boys.
+Well, have you seen this thing that she does with the chocolate syrup?
+And the milk? It's atrocious.
+Oh, my God.
+Ugh.
+Yeah, speaking of cheese, seems like Joe MacMillan is back in rare form.
+Yes, you've gone and woken up the beast.
+Well, it was my only way to get to Cameron.
+It was a long shot and it didn't even work. I had to go myself.
+I don't know, maybe that didn't even work either.
+Yeah, well, what were you gonna do all these years, you know?
+Between work and the kids?
+You know, get on a plane and fly to Tokyo?
+Well, I could pitch a terrible video game to Tom.
+No, no, no.
+You would never get a meeting with someone as important as Tom.
+(both laughing)
+You know, if they do come back tomorrow...
+I got this really great idea for them.
+For a video game.
+Basically, it's this conveyor belt filled with all these light bulbs, but you have to sh1t on them before they turn on.
+Wait, I have the perfect title.
+Mm-hmm.
+Ready?
+"You're an Asshole."
+Listen, I...
+I apologize today for calling you a money person.
+Oh.
+I didn't mean it.
+It just kind of came out.
+Oh. It's true, though.
+These days.
+I don't know, maybe it was a mistake... bringing everybody back together and trying to fix things.
+Yeah, well, if nobody shows up tomorrow, I'm still interested.
+Really? It didn't seem like that today.
+What the... all I said was, you're early.
+Okay, it's a disservice to everyone if I didn't say that.
+I've been wrong before.
+I'll be the first to admit that.
+Can I ask you a weird question?
+Yeah, shoot.
+Are you having just a ton of s*x these days?
+Um...
+I do all right.
+How about you?
+Yeah. Same.
+Huh.
+Uh, are you... are you seeing anyone right now?
+Nope.
+Good. 'Cause there's something really weird I want to ask you.
+Would you be open to... meeting someone?
+Like, for a date?
+I think you and this guy would really hit it off.
+What?
+Yeah, there's this really great guy I know.
+He runs the computer lab programs at Cal.
+He's really nice and I just thought, you're free, he's free...
+I don't know.
+What are you doing?
+I'm trying to finish this presentation.
+My battery died, so I'm using yours.
+Is that okay?
+Yeah, it's fine.
+How's Bos?
+Yeah, he's good.
+Oh, look...
+I know today wasn't fun for you, so if you don't want to come back tomorrow, you don't have to.
+So, you're going?
+Well...
+Yeah, I guess so.
+Okay, well, I guess I'm going, too.
+Good.
+Let me get in the shower.
+(shower running)
+(marker squeaking)
+What's up with him?
+He says he needs five minutes.
+Huh.
+Wow. Man, did I wake up with a headache this morning.
+I hope I didn't say anything dumb.
+You know, about the date.
+Gordon, it's fine.
+Oh, great. I mean, you know, good.
+I'd love his number.
+Unless, you know... if it would be weird...
+No.
+No, I mean...
+Yeah, no problem.
+(door slams)
+Oh, you're here.
+(laughs) You're all here.
+Let's get started.
+Berners-Lee wrote HTML to view and edit the Web, HTTP so that it could talk to itself.
+The chatter could be cacophonous.
+It could be deafeningly silent.
+Big picture... what will the World Wide Web become?
+Short answer... who knows?
+Okay, so, what's your point?
+It's a waste of time to try to figure out what the Web will become. We just don't know.
+Because right now, at the end of the day, it's just an online research catalogue running on NeXT computers on a small network in Europe.
+So, you're saying everything we've talked about since we got here has been a waste of time?
+I'm saying, let's take a step back.
+Literally, a step back.
+Yeah, but what is this on the board?
+It's the code for the Web browser.
+And you wrote it all on the whiteboard.
+The online catalogue of research?
+Full of Norwegian dudes, physics papers, and particle diagrams and stuff?
+Yeah, and we care about this because why?
+How did we all get here today?
+The choices we made, the sheer force of our will, something like that?
+Here's another answer... the winds of fate.
+Random coincidence, some unseen hand just pushing us along.
+Destiny.
+How did we all get here today?
+We walked through this door.
+We don't have to build a big white box or a stadium, or invent rock and roll.
+The moment we decide what the Web is, we've lost.
+The moment we try to tell people what to do with it, we've lost.
+All we have to do is build a door and let them inside.
+When I was five, my mother took me to the city.
+And we went through the Holland Tunnel, and it was basic.
+Concrete and steel.
+But it was also my excitement sitting in the backseat, wondering when it was going to be our turn to emerge.
+It was the explosion of sunlight.
+And when we exited the tunnel, all of Manhattan was laid out before us.
+And that was the best part of the trip... the amazing possibility to be able to go anywhere within something that is magnificent and never-ending.
+This is the first Web browser, the rudimentary one CERN built to view and edit research.
+I wrote it up here for you to see how simple it is.
+It takes up one whiteboard... that's basic concrete and steel.
+But we can take this and we can build a door, and we can be the first ones to do it.
+Because right now, everyone else sees this as...
+As an online research catalogue.
+Running on NeXT.
+On a network in Europe.
+And with this handful of code, we can build the Holland Tunnel.
+I don't see it.
+I don't. I mean, is it a door, or is it a tunnel?
+Or is it the Tower of Babel?
+Or is it a Rosetta Stone, or is it a stadium?
+And if the big idea here is the browser, and it's that easy to build, then it's not a big idea at all.
+And how can we win at something when anyone... anyone, including Xerox and Apple and all the actual players from your little Hypertext shindig, can step in at any moment and crush us?
+It will be competitive, because whoever owns the door can charge admission.
+But I sincerely believe that with the people in this room, we have a chance to build the best...
+And what makes you think you have all the people in this room, Joe?
+Come on, Cam, let's go.
+Come on, Cam. Let's go.
+Let's cut the bullshit, Tom.
+Your problem isn't the idea.
+You're right, Joe.
+Do you know what my problem is?
+I don't want to see Cameron end up like Ryan.
+Tom!
+You say his name one more time...
+Ryan. Do you remember him?
+Well, hey, lucky for us, wives don't get a vote.
+You...
+:
+Tom!
+(both panting)
+(screams)
+Joe!
+: Joe?!
+:
+(groans)
+I know. You're lucky you're not dead.
+Listen, Joe, if we have any chance in hell at this, it's this kind of personal bullshit that's going to sink us before we even start.
+Us?
+Yeah, Cameron was right.
+There's no such thing as the future, hey?
+All there is is now.
+Maybe we're not early.
+Maybe if we do it now, we could be the first.
+Regardless, I am done waiting.
+I can't let this one get away.
+Then don't.
+Hey, he's fine.
+He broke his wrist, but he's okay.
+What happened at COMDEX?
+What? Nothing.
+Nothing happened.
+I need some air.
+(sighs)
+You okay?
+So easy to make Joe the bad guy.
+I mean... making him the villain takes the blame away, but in everything that's happened with him, every single time...
+I deserve some of the blame, too.
+And it's the same with you, you know?
+And you did what you did, but a lot of it was my fault.
+This is a really cool idea.
+Yeah, I think so, too!
+ if Joe is a problem for you, then he doesn't have to be here.
+We can get rid of him.
+We all patched in?
+Yeah, give it a try.
+Yup, we're in, good and speedy.
+So, this is your baby, huh?
+Yeah, the little network that could.
+The DSP in this cube is amazing.
+Not only are we getting clean 56K, we can do this at the same time.
+(
+)
+Sounds pretty good, huh?
+Yeah, is that coming off the CD-ROM?
+We should really focus.
+Okay, so through NSFNET, we can connect to CERN?
+Yes, but we're gonna crawl once we jump to Europe.
+Why? The TAT-8 is fiber optic.
+Yeah, but it's also buried along the continental shelf and constantly being attacked by sharks.
+Apparently, they can sense the electrical radiation.
+I know.
+I love your mind.
+You know, seven grand a pop is still insane, and I don't know why the cube is magnesium, but I still appreciate a good machine.
+Yeah, well... you know what they say, software comes and goes...
+: But hardware is forever.
+(Donna chuckles)
+Okay. Do you have everything?
+Yeah.
+Okay, this is good. This is good.
+Yeah, I'll knock out my meetings today and get in a few days early, I'll see the family, get my bearings.
+I think... I think it will help me recalibrate.
+Yeah, this is good.
+Yeah, and I'll pick you up at the airport day after tomorrow, okay?
+I'll be there.
+Okay.
+Wait, um...
+I'm really sorry that I didn't trust you.
+I don't like who I've been this weekend.
+It's been a weird situation for me, too.
+The other night at the hotel, I was reading your emails on your laptop.
+I can't believe that I did that.
+I just couldn't get Joe out of my head, and it was completely irrational and I'm sorry.
+I just... don't want us to lie to one another.
+Because I love you.
+I love you, too.
+(sighs)
+Okay.
+Okay.
+Joe...
+Joe, I am...
+Joe, I... I just wanted to apologize again for yesterday.
+The way I behaved...
+I was way, way, way out of line.
+I was out of line, too.
+Sorry.
+I love you.
+Love you.
+I'll see you.
+Okay.
+Hey, they're ready downstairs.
+Donna...
+I can't work with you.
+What?
+I can't work with you.
+It will never be like it was.
+It can't be.
+But last night, we... we talked.
+It was good.
+I don't understand.
+You know why I wanted us to meet here?
+I just didn't want to forget what had happened, how painful that was.
+Why?
+And then I almost did forget last night when we talked, when it felt good, when I was with my friend again.
+And then you reminded me how easily you toss people aside when you feel like they're in your way.
+This about Joe.
+No, this is about you.
+I was trying to help you.
+All I was ever trying to do was help you.
+Well... the thing is, Donna, I love this project... and I want to work on it.
+Take it.
+Take it.
+(breathing deeply)
+(engine starts)
+Damn it.
+(engine shuts off)
+(crying)
+(sobbing)
+It's me. I'm headed to the office.
+I need a flight to Switzerland and I need to meet with CERN when I get there.
+(engine starts)
+Where the hell is Cameron?
+You know how long I've been waiting, just sitting around the last four years, twiddling my thumbs?
+Maybe this futures bet we made will finally pay off.
+I'm in love with her.
+Where's Donna?
+She left.
+(
+)
+All right. Let's do this.
+Feed the kitteh
+© 2001-2020 
+. 
+.

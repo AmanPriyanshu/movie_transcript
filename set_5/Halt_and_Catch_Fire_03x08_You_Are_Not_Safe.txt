@@ -1,0 +1,619 @@
+I really think we should go public.
+How long do you see that taking?
+A year.
+We can't afford to wait.
+Come run it with me.
+What?
+And 49% of the company shares.
+Cameron acts like she's majority shareholder, but she's not.
+If you pull this move, she'll see it as an act of war.
+This gets decided tonight.
+Who's in favor of doing the IPO now?
+You're breaking my goddamn heart.
+That thing that you and Joe are working on?
+I released the source code for MacMillan Utility's 
+: 
+Mr. MacMillan.
+We need to ask you a few questions.
+: 
+Do you have any additional computers?
+You mean, do I own another computer? No.
+Do I have access to other computers? Sure, so do you.
+You can go to your library, you can go to your friend's house...
+ of computers you have access to.
+Have at it. There's nothing there.
+Yeah, that's what I said when they came for me, too.
+What the hell is that?
+Oh, kid, you've never seen a packet sniffer?
+Meet your worst enemy.
+(beeping)
+(continues beeping)
+: 
+I'm just, um...
+I'm just gonna go grab a bite to eat.
+They told you not to leave.
+What was that thing that they were shoving into the phone jack?
+: 
+Hey, what should I tell them if they come back?
+Just don't say anything.
+: 
+(whistling)
+(stops whistling)
+Hey, what the hell was that?
+The FBI.
+God damn it, Joe.
+They're looking for Ryan.
+He, uh... he did a stupid thing.
+He... he released the source code for MacMillan Utility's anti-virus software online.
+All of it.
+It's a violation of the CFAA...
+They think you did it.
+I know what you're gonna say.
+It's what everyone's gonna say, Joe.
+Please, listen.
+Stop, stop!
+Stop.
+Look me in the eye and tell me you had nothing to do with the leak.
+I had nothing to do with it.
+All right. Then I'm all in.
+While it's true that the pace of Mutiny's growth has slowed somewhat, multi-platform expansion is not the only solution.
+Rather, Mutiny is employing a number of strategies which, taken together, promise a second quarter earnings uptick...
+Stop. You can't say that.
+It's not in the prospectus.
+Well, I have to say something.
+They can see that that user numbers are plateauing.
+The company's laudable record of growth is fully documented in the prospectus.
+That sounds like I'm hiding something.
+You can't hype the stock.
+Well, what's the point of doing this road show if all I can say is read the prospectus?
+So, they read the prospectus.
+Well, there are things that I want to clarify.
+The prospectus should be a living document.
+: 
+:
+Look, you're doing great.
+The whole point of coming to these smaller firms first is so that you can work out the kinks before we take it to the big guns in Boston and New York.
+I thought it went pretty well last night, don't you think?
+No, I think they were all underwhelmed.
+Hey, I read the room as I see it.
+You did fine.
+Look, everybody hates this process, and everybody gets through it.
+So, come on, tell me about Mutiny's founder Cameron Howe.
+I understand she's no longer with the company.
+Cameron is one of the most talented coders in Silicon Valley.
+She gave her heart and soul to Mutiny, and her spirit is still very much...
+:
+It sounds like you're eulogizing the family dog.
+That's what we agreed I'd say.
+It doesn't pass the smell test.
+: 
+Something with a faint hint of truth to it, maybe?
+Oh, so I should say that she's a temperamental narcissist with self-destructive tendencies who doesn't work with others?
+Well, at least it sounds like you mean it when you say that.
+I'm sorry that there's no pretty way to talk about this.
+But just a reminder, you voted for it, too.
+Yes, I did, under duress, as I recall.
+Nobody wanted it. It's just what happened.
+And yet, here we are.
+Look, I'm just trying to help out here.
+Unless you just want me to go get the coffee?
+(sighs)
+Hey.
+Are you leaving already?
+: 
+Oh.
+Hey, can you, uh, run to the store, get some candy for the trick or treaters?
+Mmm.
+Cam, they're kids, they want candy, and you should try to get out a little bit.
+Can you do it?
+Oh.
+I love you.
+Love you.
+Mmm.
+(sighs)
+...Winner's Circle over here.
+That's where you go to win most of the money, 
+10 and $25,000 to crack over there.
+(buzzing) - 
+We've got "Water, Water Everywhere";
+"Round And Round"; "Remember When";
+"Keep Them Sealed"; "We'll Be Right Back"... sounds like commercial messages.
+I don't know what that is, but that sure sounds like what it is.
+"King Kong's Kid"; and we have...
+(buzzing)
+(buzzing intensifies)
+This deal between Joe and Gordon, it's bullshit.
+I was there from the beginning.
+The network wouldn't exist without me.
+And I'm better than Gordon Clark by a magnitude of 20.
+Gordon wants to roll over for Cisco on TCP/IP upgrades.
+It's so short-sighted, he's a joke!
+(button clicks)
+I don't know what to say, Mitch.
+I'm sorry you had to find out this way.
+I was too invested in this project to just walk away.
+Listen, Joe, we like you.
+You believed in the network.
+Hell, you walked away from your own company 
+But Ryan... let's face it, Ryan doesn't sound like a guy who's gonna keep his mouth shut.
+Ryan would never do that.
+Well, regardless, we can't work with someone who's being investigated for computer fraud, who blatantly violated major legislation that went into effect this year.
+Joe didn't do anything wrong.
+: 
+But until we find the person who is responsible, you two need to stay away from each other.
+And this network contract is frozen.
+How did Ryan know that we were working together?
+Hmm? Down to the details of my negotiations with Cisco?
+He must be reading our emails.
+He built the network. He knows how to get inside better than anyone.
+Well... we gotta turn him in.
+No, there must be another way.
+What are you talking about? Did you hear the tape?
+The contract's frozen.
+I can't do that to him.
+Oh, Christ, Joe.
+He's my friend.
+I thought I was your friend.
+No?
+(screams)
+(doorbell rings)
+All right. Jesus, I'm coming.
+: Trick or treat!
+Ooh.
+You're the first non-princess I've seen for hours.
+I hate princesses.
+Me, too.
+You only got one thing.
+Yeah. Take it or leave it.
+Alf.
+Shoo.
+Oh.
+(laughs)
+Well... it's a very tall child dressed as Joe MacMillan.
+Batman was sold out.
+Can I come in?
+Yeah.
+It's a good color.
+It's a work in progress.
+So, what's going on?
+I assume you're not here for the candy?
+I've got a problem.
+It sounds like you got a lot of problems.
+I mean, unless it's true there's no such thing as bad publicity.
+I'm...
+I'm not responsible for the leak.
+I, yeah, figured.
+You know, clearly it was someone with actual skills.
+I need to find him and he's off the grid.
+The feds are calling me every week.
+I bet, probably because every chat room online thinks you're some kind of 8-bit Robin Hood.
+I didn't make Ryan do this.
+Yeah, I know.
+It's hard to make Ryan do anything.
+If you could send out a kind of flare...
+I mean, Ryan's talented, but if anyone can track him...
+Oh... are you gonna turn him in?
+He's running out of options.
+:
+Sorry.
+(laughs)
+Never better, as I'm sure you can see.
+Well, look at us.
+Two unemployed CEOs both ousted from our companies.
+Mine's toast and yours is going public.
+Mm-hmm.
+Gordon told me.
+Yeah.
+I'm working with Gordon now.
+Really?
+(laughs)
+Now, there's a twist.
+You were right.
+I needed to give him credit and include him, and we're working on something that I'm really excited about.
+So, uh, thank you for that.
+Yeah, well... thank you.
+Oh.
+Hmm.
+Him.
+Well, you picked a good guy.
+He's lucky.
+No, I'm pretty sure right now I'm just making him miserable.
+(laughs)
+Oh, I haven't seen one of these since I was a kid.
+That's scary.
+Yeah.
+I had to zap it 'cause of Halloween.
+I didn't want those little wieners getting stung.
+Yeah.
+Yeah.
+I'd appreciate your help with Ryan.
+Hey, Joe.
+Here. Trick or treat.
+(laughing)
+(ringing)
+Clark residence.
+Hi, sweetheart. How's your costume?
+And my teacher said I have to call my spear a walking stick.
+I don't know. Kids aren't supposed to have spears?
+Well, can they have imaginary spears?
+Well, you tell her...
+Haley? Have the best time, okay, sweetheart?
+Hey.
+How's it going?
+I think I did all right today. How are things over there?
+Great. Everything's great.
+:
+Is that Joanie? Can I talk to her?
+Hey, Mom wants to talk to you.
+Not while you're braiding. It'll be all lopsided.
+All right.
+Just tell her to have fun, all right?
+What's she going as?
+Joan Montana.
+Mm-hmm. Will do.
+Gordon, I... I miss you.
+Yep, miss you, too.
+Hurry up, Daddy.
+(
+)
+: Two kids, three-ring circus.
+Haley's like a tiny prosecutor.
+She kept coming down here to offer evidence against her sister.
+Yeah, Joanie's too scary to convict.
+Ravager, huh?
+You have no idea.
+So, um, I was hoping you had heard some news.
+I haven't heard from him.
+Oh.
+Can I ask you a question?
+Were... were you and Ryan, um, ever, uh... you know.
+What?
+Um, did you... you know...?
+You know?
+What?
+You know, were... were you, you know, more than... friends?
+You know?
+I never had those feelings for Ryan.
+Ah.
+Actually, he kind of reminds me of you.
+Oh, come on, please don't say that.
+That's... I don't know how to respond to that.
+Uh...
+(laughing)
+Stop messing with me.
+You should move forward with the NSFNET project alone.
+Wh-what? What are you talking about?
+I don't want to hold you back.
+You're not holding me back. You're helping me.
+Gordon, Mitch was pretty clear about this.
+Joe, please don't do this.
+You know how these things work.
+If you miss the window...
+I can't do it alone.
+Yes, you can. Don't sell yourself short.
+I'm sick, Joe.
+I'm sick.
+What... what the hell does that mean?
+Hang on real quick.
+Gordon?
+Leave it.
+Just give me two secs.
+Hello?
+Now? No, I got the kids. I...
+All right, look, I'll... I'll figure something out.
+Yep.
+Yep.
+(sighs) That was Mutiny.
+They need me to... it doesn't... we need to talk, all right?
+You're not going anywhere until you tell me what's going on.
+Sit down.
+Sit.
+Ryan.
+Ryan. Ryan!
+How'd you find me?
+Uh...
+I put up the "Are You Safe" board on Mutiny.
+You logged in remotely through an FTP connection...
+You wrote a software trap alerting you to my activity, including the university mainlines.
+(groans) I should have thought about that.
+Hey, I'm not here to bust you or anything.
+Joe wants to help you.
+I... I want to help you.
+Hey, you...
+Ryan, you can't live off Dr Pepper and Cheez-Its forever.
+Believe me, I've tried.
+Where have you been?
+The cops, they keep tracking me.
+Uh, how did you know?
+I could feel it.
+Somebody was following me.
+And... and my buddy, he kept getting these weird phone calls.
+Yeah.
+And, um, I took the bus down to San Diego and, um, stayed with my cousin.
+He's a wannabe tech guy and a total asshole.
+He said he wouldn't rat me out, but I...
+I knew he would, you know?
+I hitched a ride back to SF.
+I needed a cup of coffee and a computer, so...
+I blended in right here.
+It's like I'm invisible.
+Joe probably hates me now.
+Oh, no. (scoffs)
+No, and even if he is pissed, he'll get over it.
+Joe can be... surprisingly forgiving.
+Maybe it's because he's screwed up his own life so many times.
+Hey, if you don't want me to tell him where you are, I won't.
+But he really just wants to walk you through your options.
+He's worried about you.
+I thought you were gonna bring the girlies along.
+No.
+Found a great new sitter.
+Really flexible.
+Well, thanks for bailing me out.
+I didn't want to worry Donna on the eve of her big day.
+What you gonna do with your share of the IPO?
+I don't know.
+I guess I should make some plans.
+You know, they're saying it's gonna open at 15.
+Ha, 15.
+Who'd have thunk it?
+Oh, stash away some for a college fund type of thing for my grandson.
+That is, if that's all right with James.
+Yeah? Why wouldn't it be?
+ you never know what might hit a nerve.
+All right.
+You talk to Cam?
+No.
+You?
+Nope.
+But... she'll be a millionaire tomorrow.
+She can't be too sorry about that.
+Hey, here's to going public.
+To going public.
+:
+(car door closes)
+:
+(car departs)
+Well, look at you.
+Waiting for me at the front door.
+Mm-hmm.
+We're one apron away from a lifelong fantasy.
+(laughing)
+I have a proposition for you.
+Can I show you something first?
+Mmm, yeah.
+Okay, good.
+Okay.
+Okay.
+It's called the "Spacebike Chronicles."
+Okay.
+This is our hero.
+She doesn't have a name.
+And she's just cruising through the post-apocalyptic future on her bad-ass space-bike.
+And all she needs to survive are gas, candy, and the occasional long, hot shower.
+So, she travels to planets and asteroids and space stations trying to get what she needs.
+Oh! And when she arrives at a new place, she tries to win one of the five senses.
+Each one arms her with a different power.
+A sense of proportion allows her to change size.
+A sense of humor allows her to fend off most forms of attack.
+A sense of self allows her to appear and disappear.
+Okay, well, decency doesn't give her an actual power, but it makes it possible for her to win the rarest sense of all... common sense, which lets her see everything more clearly.
+It's beautiful.
+(laughs)
+How do you win?
+You don't, you just get to keep playing.
+I love it.
+Come here. Come here, come up.
+Do you want to hear, uh, the proposition?
+Mm-hmm.
+How do you feel about moving to Japan?
+(laughs) What?
+They want to move me up.
+All the way to Tokyo.
+That's perfect.
+Really?
+Yeah.
+Ryan?
+Why'd you lie to me?
+Why'd you cut me out?
+I planned to bring you in.
+I created the whole thing.
+I put the code out there, really made it free when you didn't have the guts to do it yourself.
+And I've been out there ever since, defending your name, telling the real story.
+I've been worried about you.
+Hey, sit down.
+I know you're angry, just admit it.
+I wish you hadn't upset the NSFNET deal.
+You've made things much harder.
+But that is less important than knowing that you're okay.
+You can turn yourself in and own up to what you did... or you can run.
+Either way, I will help you.
+How?
+If you run, I'll give you 50 grand, drive you to the bus station and you can disappear.
+But the network you and I created will disappear, too.
+No, I don't want that.
+I put in a call to my lawyer.
+If you turn yourself in, you'll serve no more than a year or two.
+No, I can't.
+A hacker that violates the CFAA can't touch a computer for at least five years...
+Five years? That's insane!
+And that's an impossible choice!
+It's better than 10 years in prison.
+That's the maximum.
+I know it sounds like a long time, but you're young, and it's like you told me, 
+You've got plenty of time to reinvent yourself.
+Yeah, that's what I want to do.
+Start again with you, like when you first hired me.
+We sat right here making sh1t up, writing ideas on the board.
+Okay, all right.
+Fine.
+Let's say I... I do what you say and I serve my time.
+Tell me we can still work together.
+That's not possible.
+But you would have done the same thing.
+You're a master at this kind of move.
+It's classic Joe MacMillan.
+I can't work with Joe MacMillan anymore.
+(chair clatters)
+Fine.
+I'll do this with or without you.
+I hope you do.
+You're a hypocrite and you always have been.
+You don't have to decide tonight.
+I want you to sleep here and we can talk more in the morning.
+I'll get some sheets and we can make up the sofa.
+(sighs)
+Where would madam like the tray?
+Oh, uh, on the bed, please.
+Will there be anything else?
+No, thank you.
+:
+How'd you sleep?
+Oh, horribly, but I didn't really mind.
+The sheets were so comfortable.
+Have you eaten breakfast?
+I do.
+I'm gonna be on TV and then my company's going public.
+You're gonna be great.
+You always say that.
+No, you are.
+You're gonna be great.
+So, just look directly into it like it's a person.
+Lynda will be able to see you.
+Her voice will come into your earpiece.
+There will be a bit of a sound delay.
+Any questions?
+Five away.
+All right, come on, guys.
+I wanna go back to bed.
+I know, but we gotta get up and watch Mommy.
+All right? It's her big day.
+I'll make you guys some breakfast in just a little bit, okay?
+All right, you guys get on the couch.
+Come on, hop up.
+(groans)
+Gotta make some room for Daddy.
+: 
+This morning we have with us Donna Clark, CEO of Mutiny, a trailblazer in the brave new world of online shopping.
+Welcome, Donna.
+Look, it's Mommy.
+: 
+So, Donna...
+:
+You're something of an anomaly, aren't you?
+Well, actually, Mutiny was founded by my former partner, Cameron Howe.
+Uh,
+ is no longer with the company.
+Yes.
+: 
+It's very simple, really.
+Most home computers are connected to something called a modem.
+That's a device which uses...
+It isn't, really...
+Yes, absolutely.
+: 
+ to get excited about.
+: 
+We intercepted the ticker feed from phone lines.
+Going into a bank.
+And then rerouted to the office modem.
+Ah!
+Yeah.
+Well, that sounds entirely legal.
+Sure.
+Okay, for the record I had no prior knowledge of this plan.
+(laughter)
+sh1t.
+Oh, come on. Rookie move, son.
+What are you doing? Sailboat?
+Don't spend your money before you've made it.
+:
+(coders laughing)
+Okay, look. So, the companies debuting today come out first.
+: 
+I don't know.
+Oh, here we go. Here we go.
+Hey, look at that.
+: 
+Okay, here we go.
+Okay, it's a little lower than we expected.
+Just breathe.
+(all sighing)
+(sighs)
+: Can we call Mommy yet?
+Uh, I think we're gonna wait a little.
+Do you wanna know?
+Just... tell me if it's good or bad.
+(sighs)
+I know it's a morale blow.
+I get it.
+But it doesn't mean that the stock is worthless.
+It's just not worth what we thought.
+It could be the pace of our growth.
+It could be a Commodore issue.
+They had a horrible quarter.
+Or just a calendar thing. There are all sorts of schools of...
+Can I, um... can I have a minute?
+(breathing heavily)
+(knocking continues)
+Mr. MacMillan, we need to come in.
+What's this about?
+Was Ryan Ray in your apartment last night?
+Yeah.
+But he's gone now.
+I don't know where he is.
+(distant sirens wailing)
+: 
+He wrote it right here while I was sleeping.
+I can't profit from this.
+No.
+No, it was your idea.
+Okay? I'll... I'll wait for you.
+You know? I'll see if I can stall things.
+The night I was... stood out there with Ryan, we talked about...
+God, I don't know what I was saying.
+Jesus Christ.
+I was trying to help him.
+What are you gonna do?
+I don't know.
+I can't keep having this conversation.
+I'm done.
+Hey, Gordon.
+I'm sorry.
+Are you sure you don't want to postpone?
+I don't know if there's a funeral.
+No, let's go.
+Are you sure? 'Cause we can change our flight.
+Tom, I'm fine.
+Okay?
+I'm ready to leave this place.
+You know...
+(sighs)
+God, maybe... there will be some things that they won't have in Japan.
+Yeah?
+Yeah, maybe I should go to the store and just... make sure that we have everything we need.
+Yeah, of course. Good idea.
+You want me to go with you?
+No, I'll go.
+Okay.
+: 
+Safety is a story. It's something we teach our children so they can sleep at night, but we know it's not real.
+Beware, baffled humans. Beware of false prophets who will sell you a fake future, of bad teachers, corrupt leaders and dirty corporations. Beware of cops and robbers... the kind that rob your dreams. But most of all, beware of each other, because everything's about to change.
+The world is going to crack wide open.
+There's something on the horizon.
+A massive connectivity.
+The barriers between us will disappear, and we're not ready.
+We'll hurt each other in new ways.
+We'll sell and be sold.
+We'll expose our most tender selves, only to be mocked and destroyed.
+We'll be so vulnerable, and we'll pay the price.
+We won't be able to pretend that we can protect ourselves anymore.
+It's a huge danger, a gigantic risk, but it's worth it.
+If only we can learn to take care of each other.
+Then this awesome, destructive new connection won't isolate us.
+It won't leave us in the end so... totally alone.
+(seagulls screeching)
+Feed the kitteh
+© 2001-2020 
+. 
+.
