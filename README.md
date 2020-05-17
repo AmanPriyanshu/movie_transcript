@@ -7,3 +7,7 @@ All Dataset is Downloaded from the above site.
 
 ## Implementation
 LOL! I don't know yet. But I do know there are transcripts, lots and lots of them. Hope it's useful, otherwise I am just wasting WiFi
+
+# Resources:
+Checkout this dataset:
+... <https://github.com/PolyAI-LDN/conversational-datasets/tree/master/opensubtitles>
